@@ -1,5 +1,6 @@
 # Multi-Glau
 This is the source code for the article 'An AI system with multiple functions to advance health equity of glaucoma healthcare in China '.
+![figure](readme/workflow.png "workflow")
 ## File description
 * SHAP.py : Visualizing the impact of features on the model, specifically visualizing the relative importance of features. Here is the link to the SHAP library: [SHAP Library](https://shap.readthedocs.io/en/latest/index.html#).
 * decision.py : The decision curve is a graphical representation that allows for the assessment of clinical strategies by evaluating their net benefit across different Pthresholds. The x-axis represents the range of possible Pthresholds, while the y-axis indicates the net benefit.
