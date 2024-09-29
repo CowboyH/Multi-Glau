@@ -1,6 +1,5 @@
 # Multi-Glau
 This is the source code for the article 'An AI system with multiple functions to advance health equity of glaucoma healthcare in China '.<br>
-![figure](readme/workflow.png "workflow")<bar>
 <div align=center>
 	<img src=readme/workflow.png>
 </div>
