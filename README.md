@@ -1,6 +1,6 @@
 # Multi-Glau
 This is the source code for the article 'A three-tier AI solution for equitable glaucoma diagnosis across China’s hierarchical healthcare system '.<br>
-![](readme/workflow.png)
+![](IMAGE/Figure 1.png)
 
 ## Contents
 
