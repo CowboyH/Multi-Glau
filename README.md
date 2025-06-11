@@ -11,6 +11,10 @@ This is the source code for the article 'A three-tier AI solution for equitable 
 - **decision.py**  
   Implements the decision curve analysis, a graphical method used to evaluate clinical strategies by assessing net benefit across different probability thresholds (*P<sub>threshold</sub>*).  
   The x-axis represents the range of possible thresholds, while the y-axis indicates the corresponding net benefit.
+- **plot.py**  
+  Provides demonstration code for generating violin plots, pie charts, and KDE (Kernel Density Estimation) plots using `seaborn` and `matplotlib`.  
+  Due to the sensitivity of the original clinical data, it cannot be publicly shared. Therefore, all data in this script are randomly generated solely for visualization demonstration purposes.  
+  Users are encouraged to replace the synthetic data with their own dataset and customize the plotting style as needed for actual research use or publication.
 
 > ⚙️ Code for the screening model is currently being organized and annotated. It will be uploaded by **June 15, 2025 (Beijing Time)**.
 
