@@ -16,7 +16,7 @@ This is the source code for the article **'A three-tier AI solution for equitabl
   Due to the sensitivity of the original clinical data, it cannot be publicly shared. Therefore, all data in this script are randomly generated solely for visualization demonstration purposes.  
   Users are encouraged to replace the synthetic data with their own dataset and customize the plotting style as needed for actual research use or publication.
 
-> ⚙️ Code for the screening model is currently being organized and annotated. It will be uploaded by **June 20, 2025 (Beijing Time)**.
+> ⚙️ Code for the screening model is currently being organized and annotated. It will be uploaded by **June 20, 2025 (Beijing Time)**.  
 > ⚙️ Code for the pre-diagnostic model is currently being organized and annotated. It will be uploaded by **June 30, 2025 (Beijing Time)**.
 
 ## Data availability
