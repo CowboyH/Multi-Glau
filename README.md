@@ -1,6 +1,8 @@
 # Multi-Glau
 This is the source code for the article **'A three-tier AI solution for equitable glaucoma diagnosis across China’s hierarchical healthcare system '**.<br>
 ![](IMAGE/Figure1.png)  
+## Abstract
+Artificial intelligence (AI) offers a solution to glaucoma care inequities driven by uneven resource distribution, but its real-world implementation remains limited. Here, we introduce Multi-Glau, an three-tier AI system tailored to China's hierarchical healthcare system to promote health equity in glaucoma care, even in settings with limited equipment. The system comprises three modules: (1) a screening module for primary hospitals that eliminates reliance on imaging; (2) a pre-diagnosis module for handling incomplete data in secondary hospitals, and (3) a definitive diagnosis module for the precise diagnosis of glaucoma severity in tertiary hospitals. Multi-Glau achieved high performance (AUC: 0.9254 for screening, 0.8650 for pre-diagnosis, and 0.9516 for definitive diagnosis), with its generalizability confirmed through multicenter validation. Multi-Glau outperformed state-of-the-art models, particularly in handling missing data and providing precise glaucoma severity diagnosis, while improving ophthalmologists' performance. These results demonstrate Multi-Glau’s potential to bridge diagnostic gaps across hospital tiers and enhance equitable healthcare access.  
 
 ## Contents
 
