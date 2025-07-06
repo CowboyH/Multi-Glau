@@ -9,8 +9,8 @@ Artificial intelligence (AI) offers a solution to glaucoma care inequities drive
 - [x] decision.py
 - [x] plot.py
 - [x] screening module
-- [ ] pre-diagnostic module
-- [ ] definitive diagnosis module
+- [ ] pre-diagnostic module (Writing comments and organizing code)
+- [ ] definitive diagnosis module (Writing comments and organizing code)
 ## Contents
 
 - **SHAP.py**  
@@ -24,8 +24,6 @@ Artificial intelligence (AI) offers a solution to glaucoma care inequities drive
   Provides demonstration code for generating violin plots, pie charts, and KDE (Kernel Density Estimation) plots using `seaborn` and `matplotlib`. Due to the sensitivity of the original clinical data, it cannot be publicly shared. Therefore, all data in this script are randomly generated solely for visualization demonstration purposes. You are encouraged to replace the synthetic data with your own dataset and customize the plotting style as needed for your research or publication.
 - **screening_model.py**  
   This script trains a screening model using XGBoost with Bayesian Optimization and stratified k-fold cross-validation. It saves the best model for each fold and records both validation and external test metrics.
-> ⚙️ Code for the pre-diagnostic module is currently being organized and annotated. It will be uploaded by **June 30, 2025 (Beijing Time)**.  
-> ⚙️ Code for the definitive diagnosis module is currently being organized and annotated. It will be uploaded by **July 10, 2025 (Beijing Time)**.
 ## Data availability
 Due to healthcare data management policies, the data used in this study cannot be made publicly accessible. However, the Multi-Glau discussed in this paper are generic and can be used as long as the input consists of medical images and structured numerical data.
 
